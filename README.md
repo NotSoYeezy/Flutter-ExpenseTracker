@@ -2,4 +2,4 @@
 
 ---
 
-# Simple Flutter App for tracking expenses
+## Simple Flutter App for tracking expenses
